@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: rgb(53, 122, 13);
+}
+img{
+    width: 200px;
+    border-radius: 50%;
+}
+nav{
+    float: right;
+    background-color: rgb(194, 120, 10);
+    font-size: 24px;
+    padding: 10px;
+    border-radius: 5px;
+    
+}
+a{
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+  
+}
+
+a:hover{
+     background-color: rgb(12, 116, 34);
+     margin: 5px;
+    
+}
